@@ -1,2 +1,0 @@
-# reactternarycheck
-Created with CodeSandbox
